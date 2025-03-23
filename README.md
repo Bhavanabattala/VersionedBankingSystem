@@ -17,5 +17,5 @@ The Versioned Bank Account is a Java banking system that has a history of transa
 # Steps to Run the Project
 1. Clone the Repository (or download the files manually):
   
-   git clone https://github.com/your-username/VersionedBankAccount.git
+   git clone https://github.com/Bhavanabattala/VersionedBankAccount.git
    cd VersionedBankAccount
