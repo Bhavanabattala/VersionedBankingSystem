@@ -89,9 +89,8 @@ GitHub was used to store and maintain the project repository. This enabled versi
 - Make sure there are earlier versions stored prior to trying a rollback.
 - If there is an error, restart the application and try once again.
 
-## License
-This project is licensed under the MIT License.
-
+## Conclusion
+In short, the task of this project is an exercise in applying partial persistence to a banking system. The Versioned Banking System, in which transaction history is retained and rollback can occur to previous states, demonstrates how partial persistence may be applied to hold account information in a secure and efficient capacity. In its performance testing, this example provides astute observations on how such a system can offer improved control and security over more basic, non-persistent banking systems.
 
 For any issues or questions, please contact bhavanabattala9@gmail.com
 
